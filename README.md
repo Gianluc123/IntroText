@@ -16,8 +16,8 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
   - [monkeytype.com](https://monkeytype.com/)
   - [entertrained.app](https://entertrained.app/) - Practice typing by retyping famous novels
   - [GNU Typist](https://www.gnu.org/savannah-checkouts/gnu/gtypist/gtypist.html) - a CLI based practice tool.
-    To install on Ubuntu use `sudo apt install gtypist`
-  - [ttyper](https://github.com/max-niederman/ttyper) - a newer CLI based practice tool written in Rust
+    To install on Ubuntu, use `sudo apt install gtypist`
+  - [ttyper](https://github.com/max-niederman/ttyper) - a newer CLI-based practice tool written in Rust
 
 ## Fonts
 - [The Story of Fonts](https://www.youtube.com/watch?v=WVfRxFwVHQc) by struthless
@@ -48,6 +48,7 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
 ## CLI
 - [Command Line Crash Course For Beginners](https://www.youtube.com/watch?v=uwAqEzhyjtw)
 - [Is the terminal still worth learning?](https://www.youtube.com/watch?v=PwoD3XxYLII) - by Veronica Explains
+- [Intro to the Command Line](https://www.codecademy.com/learn/intro-to-the-command-line) - free interactive mini-course on Codecademy
 - [Bandit - CLI practice game via SSH](https://overthewire.org/wargames/bandit/)
 - Zork - text-based adventure game from 1977
   - [Play the game](https://www.pcjs.org/software/pcx86/game/infocom/zork1/)
@@ -58,6 +59,7 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
 ## Git & GitHub
 - [GitHub Basics Made Easy: A Fast Beginner's Tutorial!](https://www.youtube.com/watch?v=Oaj3RBIoGFc) - by Skill Foundry
 - [Quick overview of git terminology with animations](https://www.youtube.com/watch?v=e9lnsKot_SQ)
+- [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - [VSCode Git Tutorial (2023)](https://www.youtube.com/watch?v=WAqWUfGIQYI) by Ghost Together
 - [How to Install Git on MacOS using HomeBrew](https://www.youtube.com/watch?v=B4qsvQ5IqWk) - by Code Wizard
 - [Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw) - by Kevin Stratvert, CLI based
@@ -71,7 +73,7 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
  - [Airtable vs Excel and Google Sheets](https://www.youtube.com/watch?v=RHFvUmptIs0) by Julian Post
  - [Airtable 2024 - Full Course for Beginners](https://www.youtube.com/watch?v=Hq3rQpodt58) by Julian Post
  - Airtable alternatives
-   - Notion Databases - less DB features but part of Notion
+   - Notion Databases - fewer DB features, but part of Notion
    - [NocoDB](https://nocodb.com/) - open source
    - [BaseRow](https://baserow.io/) - open source
 
