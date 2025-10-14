@@ -3,7 +3,7 @@
 ## Material covered during the lecture:
 - Structured data
 - JSON and JSON data types
-- YAML
+- YAML 
 - Data Serialization and Deserialization
 
 ---
@@ -64,7 +64,7 @@ Start adding objects, one per player, like this:
 [
     {
         "name": "James Brown"
-        ...
+        ... James Brown 
     },
     {
         ...
@@ -90,7 +90,7 @@ After adding some info, you can switch to typing on the YAML side, and the conve
 
 Example:
 ```json
-[
+[ json 
     {
         "name": "Lebron James",
         "sport": "basketball",
